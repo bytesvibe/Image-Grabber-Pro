@@ -1,6 +1,7 @@
 # Image Grabber Pro
+Image Grabber Pro is a lightweight Chrome extension that extracts image URLs and their associated titles from any website in one click.
 
-**Image Grabber Pro** is a powerful and lightweight Chrome Extension (Manifest V3) designed to extract image URLs and their associated titles from any webpage with a single click. Whether you are a developer, designer, or researcher, this tool simplifies the process of collecting image assets and metadata.
+It works on modern, dynamic, and lazy-loaded webpages and runs completely inside the browser with zero data collection.
 
 ## Key Features
 
@@ -13,15 +14,11 @@
 
 ## Installation
 
-### For Users (Chrome Web Store)
-*Coming soon!* Once approved, you can install it directly from the Chrome Web Store.
-
-### For Developers (Manual Installation)
-1.  Clone or download this repository.
+1.  Clone or download this repository. And once downloaded unzip it.
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
 3.  Enable **Developer mode** using the toggle in the top-right corner.
-4.  Click the **Load unpacked** button.
-5.  Select the directory containing the extension files.
+4.  Click the **Load unpacked** button. 
+5.  Select the unzip folder containing the extension files.
 
 ## Usage
 
@@ -29,6 +26,17 @@
 2.  Click the **Image Grabber Pro** icon in your extension toolbar.
 3.  Click **Scan Page** to populate the list of images and titles.
 4.  Use the **Copy All**, **CSV**, or **TXT** buttons to export your data.
+
+##  Use Cases
+
+Collect image assets from websites
+Extract product images
+Build image datasets
+Design reference collection
+CMS media preparation
+SEO image audits
+Content research and archiving
+
 
 ## Technical Details
 
@@ -46,4 +54,16 @@
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under Creative Commons Attribution-NonCommercial 4.0
+Commercial use is strictly prohibited.
+
+
+## Contributing
+
+Contributions are welcome.
+
+If you find a bug or want to improve the extension:
+* Open an issue
+* Submit a pull request
+* Suggest a feature
+
