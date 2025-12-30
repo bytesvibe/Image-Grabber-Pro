@@ -22,7 +22,8 @@ It works on modern, dynamic, and lazy-loaded webpages and runs completely inside
 
 ## Usage
 
-1.  Navigate to any website containing images you wish to extract.
+1.  Navigate to any website containing images you wish to extract. <img width="1737" height="964" alt="image" src="https://github.com/user-attachments/assets/b8225dee-774a-4495-a55c-ede1183c2ee6" />
+
 2.  Click the **Image Grabber Pro** icon in your extension toolbar.
 3.  Click **Scan Page** to populate the list of images and titles.
 4.  Use the **Copy All**, **CSV**, or **TXT** buttons to export your data.
